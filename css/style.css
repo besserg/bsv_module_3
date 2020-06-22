@@ -393,11 +393,16 @@ main {
     background-color: #eb6d4a8f;
 }
 
+.fp-team-desc{
+	display: flex;
+    flex-direction: column;
+}
+
 .fp-lead-text {
-	position: absolute;
     max-width: 642px;
     top: 5px;
     left: 393px;
+    padding-bottom: 65px;
 }
 
 .lead-social > a{
