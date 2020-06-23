@@ -446,6 +446,7 @@ main {
 
 .fp-member {
 	margin-right: 15px;
+	position: relative;
 }
 
 .fp-member > h3 {
@@ -463,6 +464,7 @@ main {
     text-align: center;
     background-color: #000;
     opacity: 0.5;
+    padding-top: 20px;
 }
 
 .fp-member:hover > h3 {
@@ -788,7 +790,8 @@ footer {
 		height: auto;
 	}
 
-	.tp-menu {
+	.fp-text {
+		margin: 0;
 	}
 
 
